@@ -1,0 +1,38 @@
+{
+  "name": "blanditiisdebitis",
+  "version": "1.0.0",
+  "description": "Elabox foundation module for development dApps for elabox system. This module contains logger, app framework, server client connection and other system utilities.",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarrieMorar/blanditiisdebitis.git"
+  },
+  "keywords": [
+    "occaecati",
+    "dapps",
+    "crypto",
+    "rem",
+    "elastos",
+    "est"
+  ],
+  "author": "ReinholdMacejkovic",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/CarrieMorar/blanditiisdebitis.git/issues"
+  },
+  "homepage": "https://github.com/CarrieMorar/blanditiisdebitis.git",
+  "dependencies": {
+    "socket.io-client": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.22",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.10.3",
+    "@types/socket.io-client": "^3.0.0",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2",
+    "nyc": "^15.1.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
